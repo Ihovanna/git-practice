@@ -2,11 +2,13 @@
 # Iterating Over Data
 # Problem-Set While Loops #11
 def silly_sum():
-""" reads numbers from the user
-        summing as we go until either
-        the user enters 0, or
-        the sum reaches or exceeds 1000
+    """ 
+    reads numbers from the user
+            summing as we go until either
+            the user enters 0, or
+            the sum reaches or exceeds 1000
     """
+
     num = int(input('Please enter a number => '))
     sum = 0
 
