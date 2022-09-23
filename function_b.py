@@ -2,10 +2,7 @@
 # Iterating Over Data
 # Problem-Set While Loops #11
 def silly_sum():
-""" reads numbers from the user
-        summing as we go until either
-        the user enters 0, or
-        the sum reaches or exceeds 1000
+""" I don't think this explanation is necessary
     """
     num = int(input('Please enter a number => '))
     sum = 0
